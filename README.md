@@ -29,5 +29,5 @@ The following datasets are included and imported into the SQLite database (`ecom
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/cherrysadu/ecommerce_ai_agent.git
+git clone https://github.com/karichetipravallika/ecommerce_ai_agent.git
 cd ecommerce_ai_agent
